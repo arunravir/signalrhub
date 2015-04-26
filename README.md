@@ -1,0 +1,2 @@
+# signalrhub
+Javascript client implementation
